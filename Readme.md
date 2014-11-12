@@ -27,6 +27,11 @@ myThing.props.user // model
 myThing.state.set('selected', true);
 ```
 
+## Events
+
+  - `created` - once the view is created
+  - `destroy` - once the view is destroyed
+
 ## License
 
   MIT
